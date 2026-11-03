@@ -21,6 +21,18 @@ Estas son algunas de las tecnologías y herramientas que he utilizado durante mi
 - **JavaScript:** lo he utilizado para agregar interactividad a páginas web, como en la carta digital para mamá y el proyecto de videojuegos.
 - **Git y GitHub:** los utilizo para guardar versiones de mis proyectos, trabajar con ramas y registrar los cambios mediante commits.
 - **GitHub Pages:** lo he utilizado para publicar proyectos web, como el sitio del Parque Samanes, y compartirlos mediante un enlace público.
+
+
+### Otros conocimientos de programación
+
+Además del desarrollo web, durante mi formación universitaria he trabajado con otros lenguajes y herramientas:
+
+- **Python:** lo he utilizado en ejercicios y prácticas de programación durante la carrera.
+- **Java:** he trabajado con este lenguaje en proyectos académicos, incluyendo un taller del juego Snake.
+- **C:** lo he utilizado en asignaturas de programación para poner en práctica los conocimientos vistos en clases.
+- **SQL:** he tenido experiencia académica con este lenguaje para trabajar con bases de datos.
+- **Android Studio:** he utilizado este entorno de desarrollo durante mis estudios para aprender sobre aplicaciones móviles.
+- **Ensamblador (EMU8086):** tengo conocimientos básicos de programación en ensamblador, adquiridos mediante prácticas universitarias con el emulador EMU8086.
   
 <!--
 **AraujoHivor/AraujoHivor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
