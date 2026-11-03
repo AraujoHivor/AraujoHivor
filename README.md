@@ -34,17 +34,39 @@ Además del desarrollo web, durante mi formación universitaria he trabajado con
 - **Android Studio:** he utilizado este entorno de desarrollo durante mis estudios para aprender sobre aplicaciones móviles.
 - **Ensamblador (EMU8086):** tengo conocimientos básicos de programación en ensamblador, adquiridos mediante prácticas universitarias con el emulador EMU8086.
   
-<!--
-**AraujoHivor/AraujoHivor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estos son algunos de los proyectos académicos y personales que he desarrollado durante mi formación. Cada uno me ha permitido practicar diferentes tecnologías y adquirir experiencia en programación.
+
+### 🌳 Parque Samanes
+
+Proyecto web que realicé en equipo para presentar información sobre las zonas de calistenia y trote del Parque Samanes, en Guayaquil. Trabajamos en la organización del contenido, el diseño de la página y la integración de recursos multimedia.
+
+**Tecnologías:** HTML, CSS, JavaScript y GitHub Pages.
+
+**Repositorio:** [Proyecto Parque Samanes](https://github.com/AraujoHivor/Proyecto2---Samanes)
+
+### 🎮 Sitio web de videojuegos
+
+Desarrollé un sitio informativo sobre videojuegos, donde organicé contenido relacionado con su historia, tipos, dispositivos y empresas. Este proyecto me permitió practicar la creación de páginas web y trabajar con diferentes archivos y recursos.
+
+**Tecnologías:** HTML, CSS, JavaScript y PHP.
+
+**Repositorio:** [Proyecto Videojuegos](https://github.com/AraujoHivor/videojuegos)
+
+### 💌 Carta interactiva para mamá
+
+Proyecto personal en el que trabajé con una carta digital interactiva para el Día de las Madres. Utilicé estilos y animaciones para representar un sobre que puede abrirse y mostrar su contenido mediante la interacción del usuario.
+
+**Tecnologías:** HTML, CSS y JavaScript.
+
+**Repositorio:** [Carta para mamá](https://github.com/AraujoHivor/Para_la_mejor_Mama....)
+
+### 🐍 Taller Snake
+
+Proyecto académico grupal en el que trabajamos con un juego Snake desarrollado en Java. Mi participación se centró en realizar modificaciones visuales y practicar el trabajo colaborativo con Git, incluyendo la resolución de conflictos entre los cambios de los integrantes.
+
+**Tecnologías y herramientas:** Java, Git y GitHub.
+
+**Repositorio:** [Taller Snake](https://github.com/AraujoHivor/Taller01-Snake)
