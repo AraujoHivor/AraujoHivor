@@ -3,7 +3,8 @@
 
 Soy estudiante de Ingeniería en Computación en la Escuela Superior Politécnica del Litoral (ESPOL). Me interesa el desarrollo de software y seguir mejorando mis conocimientos de programación mediante proyectos académicos y personales.
 
-<img width="2567" height="856" alt="frase" src="https://github.com/user-attachments/assets/de81a0af-1a5e-4529-8bcb-c737a56c3567" />
+
+<img src="https://raw.githubusercontent.com/AraujoHivor/portafolio-recursos/main/frase.png" alt="Frase motivacional sobre programación" width="700">
 
 
 ## Sobre mí
