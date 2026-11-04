@@ -3,6 +3,9 @@
 
 Soy estudiante de Ingeniería en Computación en la Escuela Superior Politécnica del Litoral (ESPOL). Me interesa el desarrollo de software y seguir mejorando mis conocimientos de programación mediante proyectos académicos y personales.
 
+<img width="2567" height="856" alt="frase" src="https://github.com/user-attachments/assets/de81a0af-1a5e-4529-8bcb-c737a56c3567" />
+
+
 ## Sobre mí
 
 - 🎓 Actualmente estudio Ingeniería en Computación en ESPOL.
@@ -73,3 +76,25 @@ Proyecto académico grupal en el que trabajamos con un juego Snake desarrollado 
 **Tecnologías y herramientas:** Java, Git y GitHub.
 
 **Repositorio:** [Taller Snake](https://github.com/AraujoHivor/Taller01-Snake)
+
+
+## 💼 Actividad o experiencia
+
+Durante mi formación en Ingeniería en Computación he participado en diferentes proyectos académicos y personales que me han permitido poner en práctica mis conocimientos.
+
+- **Desarrollo web:** he trabajado en la creación de páginas web, aplicando HTML, CSS y JavaScript para organizar contenido y agregar interactividad.
+- **Trabajo en equipo:** he participado en proyectos grupales, utilizando Git y GitHub para gestionar cambios y resolver conflictos.
+- **Programación:** he realizado prácticas y ejercicios con lenguajes como Python, Java y C, además de trabajar con bases de datos y herramientas de desarrollo.
+- **Proyectos personales:** también me gusta experimentar con ideas propias, como la creación de páginas interactivas y otros ejercicios de programación.
+
+
+
+## 📬 Contacto
+
+Me interesa seguir aprendiendo, mejorar mis habilidades y participar en nuevos proyectos relacionados con la tecnología.
+
+Puedes conocer más sobre mis trabajos y avances a través de GitHub.
+
+- **GitHub:** [@AraujoHivor](https://github.com/AraujoHivor)
+- **Consultas sobre proyectos:** [Abrir una consulta en GitHub](https://github.com/AraujoHivor/AraujoHivor/issues/new)
+
