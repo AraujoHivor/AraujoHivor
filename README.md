@@ -46,6 +46,7 @@ Proyecto web que realicé en equipo para presentar información sobre las zonas 
 **Tecnologías:** HTML, CSS, JavaScript y GitHub Pages.
 
 **Repositorio:** [Proyecto Parque Samanes](https://github.com/AraujoHivor/Proyecto2---Samanes)
+**Pagina funcional**[Proyecto Parque Samanes](https://araujohivor.github.io/Proyecto2---Samanes/)
 
 ### 🎮 Sitio web de videojuegos
 
@@ -54,6 +55,7 @@ Desarrollé un sitio informativo sobre videojuegos, donde organicé contenido re
 **Tecnologías:** HTML, CSS, JavaScript y PHP.
 
 **Repositorio:** [Proyecto Videojuegos](https://github.com/AraujoHivor/videojuegos)
+**Pagina funcional**[Proyecto Videojuegos](https://araujohivor.github.io/videojuegos/)
 
 ### 💌 Carta interactiva para mamá
 
@@ -62,6 +64,7 @@ Proyecto personal en el que trabajé con una carta digital interactiva para el D
 **Tecnologías:** HTML, CSS y JavaScript.
 
 **Repositorio:** [Carta para mamá](https://github.com/AraujoHivor/Para_la_mejor_Mama....)
+**Pagina funcional**[Carta para mamá](https://araujohivor.github.io/Para_la_mejor_Mama..../)
 
 ### 🐍 Taller Snake
 
